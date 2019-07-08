@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyLocation</string>
+    <string name="title_activity_about_device">AboutDeviceActivity</string>
 </resources>
